@@ -1,5 +1,5 @@
 # ZBK-MVP
-Official Repo for ZeusBeKind's MVP Created by CERNT CEO AKA REN.
+Official Repo for ZeusBeKind's MVP Created by CERNT.
 
 # Zeus Be Kind. A weather APP designed with skaters in mind.
 ## Zeus Be Kind is a skate weather app that looks to see if there will be 
